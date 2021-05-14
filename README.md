@@ -1,0 +1,1 @@
+# mangui-clean-solid-ts-node
