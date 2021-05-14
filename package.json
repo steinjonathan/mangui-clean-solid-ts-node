@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/steinjonathan/mangui-clean-solid-ts-node/issues"
   },
-  "homepage": "https://github.com/steinjonathan/mangui-clean-solid-ts-node#readme"
+  "homepage": "https://github.com/steinjonathan/mangui-clean-solid-ts-node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
